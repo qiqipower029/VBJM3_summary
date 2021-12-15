@@ -1,0 +1,1904 @@
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: statmod
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: statmod
+Loading required package: JM
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: splines
+Loading required package: splines
+Loading required package: statmod
+Loading required package: splines
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+Loading required package: statmod
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: JM
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: splines
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: statmod
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: pracma
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+Loading required package: splines
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: JM
+Loading required package: splines
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: statmod
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: JM
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: splines
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: JM
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: splines
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: statmod
+Loading required package: JM
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+Loading required package: JM
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: MASS
+Loading required package: splines
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+Loading required package: statmod
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+Loading required package: splines
+Loading required package: MASS
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: JM
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: MASS
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+Loading required package: Matrix
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: JM
+Loading required package: JM
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: MASS
+Loading required package: splines
+Loading required package: splines
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+Loading required package: JM
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+Loading required package: statmod
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: splines
+Loading required package: statmod
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+Loading required package: Matrix
+Loading required package: JM
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+Loading required package: Matrix
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: statmod
+Loading required package: MASS
+Loading required package: JM
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: splines
+Loading required package: MASS
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Warning message:
+In jointModel(fitLME, fitSURV, timeVar = "years") :
+  Hessian matrix at convergence is not positive definite.
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: nlme
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: nlme
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: survival
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: splines
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: splines
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: MASS
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+Loading required package: splines
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: splines
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: JM
+Loading required package: JM
+Loading required package: splines
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: MASS
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: pracma
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: splines
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: JM
+Loading required package: MASS
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+Loading required package: splines
+Loading required package: splines
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: JM
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: MASS
+Loading required package: splines
+Loading required package: splines
+Loading required package: pracma
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+Loading required package: Matrix
+Loading required package: Matrix
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: statmod
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+Loading required package: statmod
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: MASS
+Loading required package: JM
+Loading required package: splines
+Loading required package: splines
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: MASS
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: splines
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: splines
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: splines
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: statmod
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+Loading required package: statmod
+Loading required package: splines
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: JM
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: MASS
+Loading required package: splines
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: splines
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: pracma
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: splines
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: MASS
+Loading required package: splines
+Loading required package: splines
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: Matrix
+Loading required package: splines
+Loading required package: pracma
+Loading required package: JM
+Loading required package: statmod
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: pracma
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+Loading required package: pracma
+Loading required package: JM
+Loading required package: MASS
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: JM
+Loading required package: statmod
+Loading required package: MASS
+
+Attaching package: 'pracma'
+
+Loading required package: pracma
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: splines
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: JM
+Loading required package: MASS
+Loading required package: Matrix
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: statmod
+Loading required package: splines
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: pracma
+Loading required package: JM
+Loading required package: Matrix
+Loading required package: MASS
+Loading required package: JM
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: MASS
+Loading required package: statmod
+Loading required package: splines
+Loading required package: splines
+Loading required package: pracma
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: Matrix
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+Loading required package: statmod
+Loading required package: pracma
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
+Loading required package: nlme
+Loading required package: survival
+Loading required package: JM
+Loading required package: MASS
+Loading required package: splines
+Loading required package: Matrix
+Loading required package: statmod
+Loading required package: pracma
+
+Attaching package: 'pracma'
+
+The following objects are masked from 'package:Matrix':
+
+    expm, lu, tril, triu
+
+EM algorithm has converged!
+
+Calculating post model fit statistics...
+
